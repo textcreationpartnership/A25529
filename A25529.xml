@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the nature, situation, natural strength, and antient, and modern fortifications, of the several cities and garrison-towns in Ireland, that are still possessed by the forces of the late King James their distances from Dublin, and each from the other, with the several approaches by which they may be attack't : also, a scenographical discription [sic] of the famous river Shannon, on which stands those two strong places, Limmerick and Athlone, the former of which is besieged by His Majesty in person, the latter by Lieutenant General Douglass / by an Irish officer, who served in the army under the late Duke of Ormond.</title>
+            <author>Irish officer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25529</idno>
+            <idno type="STC">Wing A332</idno>
+            <idno type="STC">ESTC R1570</idno>
+            <idno type="EEBO-CITATION">12955373</idno>
+            <idno type="OCLC">ocm 12955373</idno>
+            <idno type="VID">96037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:65)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the nature, situation, natural strength, and antient, and modern fortifications, of the several cities and garrison-towns in Ireland, that are still possessed by the forces of the late King James their distances from Dublin, and each from the other, with the several approaches by which they may be attack't : also, a scenographical discription [sic] of the famous river Shannon, on which stands those two strong places, Limmerick and Athlone, the former of which is besieged by His Majesty in person, the latter by Lieutenant General Douglass / by an Irish officer, who served in the army under the late Duke of Ormond.</title>
+                  <author>Irish officer.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Bonny and R. Hayhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, James Fraser"</note>
+                  <note>Advertisements: p. 8.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Ireland --  Defenses.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96037:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT OF THE Nature, Situation, Natural Strength, and An<g ref="char:EOLhyphen"/>tient, and Modern Fortifications, of the ſeveral Cities and Garriſon-Towns in IRELAND; That are ſtill Poſſeſſed by the Forces of the Late King James; Their Diſtances from <hi>Dublin,</hi> and each from the other: With the ſeveral Approaches by which they may be Attack't.</p>
+            <p>Alſo, a Scenographical Diſcription of the Famous River SHANNON, On which Stands Thoſe Two Strong Places <hi>Limmerick, and Athlone:</hi> The former of which is Beſieged by His Majeſty in Perſon, the latter by Lieutenant General <hi>Douglaſs.</hi>
+            </p>
+            <p>
+               <hi>By an Iriſh Officer, who ſerved in the Army under the Late Duke of</hi> Ormond.</p>
+            <p>Licenſed <hi>JAMES FRASER,</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Bonny,</hi> and <hi>R. Hayhurſt</hi> in <hi>Little-Britain.</hi> 1690.</p>
+            <p>Price Two Pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96037:2"/>
+            <pb facs="tcp:96037:3"/>
+            <pb n="3" facs="tcp:96037:3"/>
+            <head>An Account of the City, Port, Garriſon, and Fortifications of LIMERICK.</head>
+            <p>THIS City is the biggeſt in <hi>Ireland,</hi> except <hi>Dub<g ref="char:EOLhyphen"/>lin;</hi> its Haven lies on the Weſt-ſide of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and South of <hi>Galway;</hi> It divideth the Province of <hi>Con<g ref="char:EOLhyphen"/>naught</hi> from <hi>Munſter,</hi> being of a great length, no leſs than ſixty Miles; for ſo far it is from the mouth of the Haven to the City of <hi>Limerick,</hi> to whoſe Walls Mer<g ref="char:EOLhyphen"/>chant-men of great Burthen, or Third, and Fourth Rate Frigats may goe up, without meeting with any thing elſe in all that way, ſave a number of little Iſles, but not any foul Places, Rocks or Sands.</p>
+            <p>This Harbour is nothing elſe but a great Lough (half way its length growing ſome-what nar<g ref="char:EOLhyphen"/>row, but immediately inlarging it ſelf again into greater breadth) whereinto the River <hi>Shannon,</hi> (upon whoſe Banks <hi>Limerick</hi> is ſi<g ref="char:EOLhyphen"/>tuated) diſchargeth it ſelf a little way below the ſaid City; although the <hi>Engliſh</hi> and the <hi>Iriſh</hi> both call it the <hi>Shannon,</hi> all the way until the Sea, as it were not a Lough into which the River falleth, but the River it ſelf thus enlarged. This City, as aforeſaid, ſtanding on the Banks of the <hi>Shannon,</hi> which encompaſſeth it ſo about that its a perfect Iſland, by which means its very ſtrong by Nature; it's alſo Fortified with a very high ſtrong Wall, on which are ſeve<g ref="char:EOLhyphen"/>ral Baſtions and Redoubts; alſo, three ſpacious Gates, well-built with curious Stone, <hi>viz.</hi> St. <hi>John</hi>'s Gate, St. <hi>Peter</hi>'s Gate, and the New-Gate.</p>
+            <p>Theſe Gates give the Name to the Three Principal Streets in the City, on which are good Stone-Buildings: It hath alſo a Caſtle and Bridge, <hi>viz.</hi> King's Caſtle, and <hi>Thomand</hi>-Bridge, Pieces of great Strength and Beauty, though very Ancient, being of the Foun<g ref="char:EOLhyphen"/>dation of King <hi>John,</hi> who was exceedingly delighted with the Situation. Its diſtant from <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> eighty four Miles, from <hi>Cork</hi> thirty ſeven Miles, and from <hi>Gal<g ref="char:EOLhyphen"/>way</hi> thirty ſix.</p>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:96037:4"/>
+            <head>GALWAY.</head>
+            <p>THE Haven of this City is the moſt conſiderable in the Province of <hi>Connaught,</hi> being a very great Bay, ſome Miles broad, and many more long, ha<g ref="char:EOLhyphen"/>ving in the Mouth three Iſlands, (called the Iſles of <hi>Arran</hi>) the which lye <hi>North</hi> and <hi>South</hi> by the ſide of each other, there remain<g ref="char:EOLhyphen"/>ing the Channels for to come out of the Sea into this Bay. One Channel runeth betwixt the Land and the Northern Iſle, and called therefore <hi>North-Sound:</hi> The ſe<g ref="char:EOLhyphen"/>cond between the ſame Northern Iſland and the middle-moſt; which Channel being the moſt uſual of the Three, is commonly ſtiled St. <hi>Gregory</hi>'s <hi>Sound;</hi> and the third be<g ref="char:EOLhyphen"/>tween the moſt Southermoſt Iſland and the Mane, named <hi>South-Sound;</hi> the Channel betwixt the Southern and the middle-moſt Iſland not be<g ref="char:EOLhyphen"/>ing paſſable, by reaſon of the Sands and Shelves, wherefore the Name of <hi>Half-Sound</hi> hath been given unto it.</p>
+            <p>The whole North-ſide of this Bay is very foul with Sands and Rocks, ſo as one may not approach the Shoar in a great way; at the end of which Sand, and in the in<g ref="char:EOLhyphen"/>nermoſt part of the Bay, lyeth a little Iſland, called <hi>Mutton-Iſland,</hi> at the Eaſt-ſide whereof, one may Anchor in five or ſix Fathoms of Water; but from thence North<g ref="char:EOLhyphen"/>wards, until the City of <hi>Galway,</hi> which is the ſpace of two or three Miles, none but little Veſſels and Barks can go, the City ſtanding not on the Bay it ſelf, but on a broad Water like a River, the which not far from <hi>Galway</hi> coming out of a great Lake, called <hi>Lough Corbes,</hi> diſchargeth it ſelf into the Bay a little above <hi>Mutten-Iſle.</hi>
+            </p>
+            <p>This City is the principal of the Province of <hi>Connaught,</hi> both for Beauty, Strength and Trade; its invironed with a very ſtrong Wall, the beſt in all <hi>Ireland,</hi> on which is a Counterſcarp, Baſtion, and o<g ref="char:EOLhyphen"/>ther Fortifications; and its no leſs ſtrong within it ſelf, the Houſes be<g ref="char:EOLhyphen"/>ing built very regular with Stone, with Battlements at the top, for Guns to be Planted. Its diſtant from <hi>Dublin</hi> eighty five Miles, and from <hi>Athlone</hi> thirty ſix Miles.</p>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:96037:4"/>
+            <head>ATHLONE.</head>
+            <p>THIS Town is the greateſt Paſs from <hi>Dublin</hi> to <hi>Con<g ref="char:EOLhyphen"/>naught,</hi> and ſo to <hi>Leinſter:</hi> it's a place that is but ſmall, yet of very great Strength, the River <hi>Shannon</hi> running through it, like <hi>London</hi> and <hi>Southwark;</hi> its joyned by a ſtately Stone-Bridge, on which are Fortifications, built at the charge of Queen <hi>Elizabeth,</hi> and repaired in the Year 1663. On that part of the Town that is in <hi>Connaught</hi> ſtands a great Caſtle, regularly Fortified according to the modern way by K. <hi>Charles</hi> the II. a little after his Reſtauration, with the addition of a high mud Wall round that part of the Town, and ſeveral other new Works hath been lately made here by the or<g ref="char:EOLhyphen"/>der of King <hi>James.</hi> Its diſtant from <hi>Dublin</hi> forty nine Miler.</p>
+            <div type="part">
+               <head>KING-SALE.</head>
+               <p>THE Haven of this Town is one of the moſt Famouſeſt of all <hi>Ireland;</hi> Ships of great Bur<g ref="char:EOLhyphen"/>then may Sail into it, keeping in the midſt of the Channel, without any danger, either without, or in the Mouth of the Harbour, except a blind Rock cloſe to the Eaſt-Point: Within the Haven, on the Weſt-ſide, lyeth a great Shelf, which ſhooteth a great way off from the Land, but leaving a very large Paſſage along by the ſide of it, in which, as in all the reſt of the Harbour, it is many Fathoms deep. This Haven for ſome Miles goeth in N. N. Eaſt, but afterwards turneth Weſt-ward, until the Key of <hi>Kingſale,</hi> where Ships may Ride in 8 or 9 Fathoms of Water, being defended of all Winds: The Town ſtands upon the Mouth of the Ri<g ref="char:EOLhyphen"/>ver <hi>Bany;</hi> and at ſome diſtance from it ſtands a curious Cittadel; (which coſt K. <hi>Charles</hi> the II. 80 Thouſand Pound the Erecting;) its of great Security to the Port ſo that no Force can attack it, either by Sea or Land, without great haz<g ref="char:EOLhyphen"/>ard and danger: The Town is well Fortified by Land, having a Wall, and ſeveral Works on it, but its commanded by the adjacent Hills, particularly by one Hill that is exact againſt their great Fort, which renders the place uncapable of holding out a Siege. Its diſtant from <hi>Dublin</hi> 127 Miles, from <hi>Limerik</hi> 46.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:96037:5"/>
+            <head>CORK.</head>
+            <p>THE Haven of this City ſtands Ten Miles to the Eaſt<g ref="char:EOLhyphen"/>ward of <hi>Kin-ſale,</hi> the which go<g ref="char:EOLhyphen"/>eth in N. N. Eaſt, being within large and wide, runing a great way into the Land; for the City (until whoſe Key this Haven is very clean and deep) is ſeated many miled from the Sea, and from the Mouth of the Harbour.</p>
+            <p>The City is but ſmall, conſiſt<g ref="char:EOLhyphen"/>ing chiefly of one large Street, reaching out in length, but very populous: It is the only thorough-fare of all Engliſh Goods and Com<g ref="char:EOLhyphen"/>modities (as they term them) namely, rich Broad Cloaths, Stuffs, and Linnen, Fruits, Spices, <hi>&amp;c.</hi> Sent moſt commonly this way out of <hi>England,</hi> for thoſe two remark<g ref="char:EOLhyphen"/>able Port-Towns of <hi>Limmerick</hi> and <hi>Galoway;</hi> it is Fortified with a very good Wall, and curious Stone-Bridge, on which are ſeve<g ref="char:EOLhyphen"/>ral Works, and being environed with Water; were it not for the Hills near it, which over looks the City, (in the ſame nature as at <hi>Kin-ſale</hi>) it might be made a place Impregnable, but the Hills has ſuch a command of it, that a Bat<g ref="char:EOLhyphen"/>tery from thence, would Beat the the Town about the Ears of the Garriſon: It is diſtant from <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> One Hundred and Sixteen Miles, from <hi>Limmerick</hi> Thirty Six Miles.</p>
+            <div type="part">
+               <head>WATERFORD.</head>
+               <p>THIS Haven is Situated on the Confines of <hi>Leniſter</hi> and <hi>Munſter,</hi> and runneth ſeven, or eight Miles into the Land, not Winding or Crooked, or with any great Inlets or Nookes, but almoſt in a ſtreight Line (extend<g ref="char:EOLhyphen"/>ing it ſelf <hi>North, North-Weſt</hi>) and in moſt parts of an equal Breadth, all the way Deep and Clear, hav<g ref="char:EOLhyphen"/>ing no Rocks nor Sands: With<g ref="char:EOLhyphen"/>out the Harbour, it is Eleven, or Twelve Fathoms Deep; in the Mouth Seven and more; inwards Six Fathoms. Within the Eſterly corner is a good Road, in Four, or Five Fathoms; and on the other, or Weſterly ſide, Five or Six Miles from the Mouth, is an other good Road, very Commo<g ref="char:EOLhyphen"/>dious, as well for thoſe Ships that go fourth, as thoſe that will Sail upwards to <hi>Waterford.</hi> Upon the <hi>Eaſt</hi> ſide, about half way the
+<pb n="7" facs="tcp:96037:5"/>
+length, lyeth a very ſtrong Fort and Caſtle, called <hi>Duncannon,</hi> (Built much in the Nature of that at <hi>Tilbury,</hi> againſt <hi>Graves-End</hi>) and ſo commandeth the Harbour, that no Ships can go up or down againſt the will of the Fort: This Haven in the end divideth it ſelf into two Armes; both a great deal Inferiour to the principal Harbour; The City is Scituated ſome four or five Miles from that Diviſion, a little below the place where the River Shoure falleth into this Har<g ref="char:EOLhyphen"/>bour: And thô it ſtands at a rea<g ref="char:EOLhyphen"/>ſonable good diſtance off from the Main Sea, yet Ships of the greateſt Burthen may ſafely Sail to, and Ride at Anchor before the Key thereof, the Fortifycations of this Place are not very conſiderable, having but an indifferent Wall round it, with a ſmall Fort, but it's very ſtrong by Sea, on the ac<g ref="char:EOLhyphen"/>count of the Fort of <hi>Duncannon.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>CLONMEL.</head>
+               <p>THIS Town is in the County of <hi>Typperary,</hi> and Scituated on the River ſhou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e about Twenty Miles above <hi>Waterford,</hi> from whence it's Paſſable to it, by Veſ<g ref="char:EOLhyphen"/>ſels of ſmall Burthen; this Place is Naturally Fortyfied, ſtanding on an Advantagious ground, very hard to be Attackt; beſides, it's Invironed with a very good VVall and Caſtle of great ſtrength. This Place made a reſolute Defence a<g ref="char:EOLhyphen"/>gainſt <hi>Oliver Cromwel, Ano Dom.</hi> 1649. who endeavoring to get it by Storm, the Garriſon beat his Souldiers twice from the Breaches, and at laſt Surrendred on Honour<g ref="char:EOLhyphen"/>able Conditions, i'ts Sixty Six Miles from <hi>Dublin.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The River SHANNON.</head>
+               <p>BEſides the exceſſive number of Brooks, wherewith <hi>Ireland</hi> is VVatered; it hath a great many Rivers, the which being Broader and Deeper then the Brooks, are conſequently navigable; althô the Major part are not porta<g ref="char:EOLhyphen"/>ble of any great Ships, but only of ſmall Veſſels.</p>
+               <p>The principaleſt of all is the <hi>Shannon,</hi> who taking her original out of Lough-<hi>Allen,</hi> and in her
+<pb n="8" facs="tcp:96037:6" rendition="simple:additions"/>
+courſe dividing the Province of <hi>Connaught</hi> from <hi>Leinſter,</hi> and after<g ref="char:EOLhyphen"/>wards alſo from <hi>Munſter,</hi> paſſeth through two other great Loughs, to wit, Lough-<hi>Ree,</hi> whereout ſhe cometh juſt above <hi>Athlone,</hi> and Lough-<hi>Dergh,</hi> about half-way be<g ref="char:EOLhyphen"/>twixt <hi>Athlone</hi> and <hi>Limerick;</hi> and a little below the ſaid Town, ſhe diſchargeth herſelf again into ano<g ref="char:EOLhyphen"/>ther Lough, by far the biggeſt of all, the which extending it ſelf from <hi>Limerick</hi> into the Sea, which is 60 Miles. And above 60 Miles from <hi>Athlone</hi> it is held by the <hi>Iriſh,</hi> as well as the <hi>Engliſh,</hi> not for a Lough, but for the <hi>Shannon</hi> it ſelf; ſo that its whole length is 120 Miles.</p>
+               <p>This River is wide and deep e<g ref="char:EOLhyphen"/>very where, ſo as ſhe would be Navigable in her whole length, not only with ſmall Veſſels, but with Ships of large Burthen, to the great advantage of them that inha<g ref="char:EOLhyphen"/>bit next it, were it not for the im<g ref="char:EOLhyphen"/>pediment of a certain Rock within 8 Miles of <hi>Athlone,</hi> the which ſtandeth a croſs in the Channel, and the River with great violence falling downwards over it, all com<g ref="char:EOLhyphen"/>munication of Navigation betwixt the upper and lower parts of it is thereby abſolutely hindred. It was propoſed to the Earl of <hi>Stafford,</hi> when Lord Deputy, by certain <hi>Dutch</hi> Ingineers, That for the Sum of 8000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>Sterling,</hi> they would in that place cut a new Channel, A Sum not very conſiderable, in compariſon of the great profit which afterwards would have ac<g ref="char:EOLhyphen"/>crued from that Work; but the Rebellion enſuing, it was never taken in hand to this day.</p>
+               <p>But its now hoped, that upon the happy Settlement of the King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> under the Be<g ref="char:EOLhyphen"/>nign Government of Their Au<g ref="char:EOLhyphen"/>guſt Majeſties, King <hi>William</hi> and Queen <hi>Mary,</hi> this advantagious Work may be performed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>CAtaſtrophe Galliae, &amp; Hiberniae Reſtitutio.</hi> An Impartial Judg<g ref="char:EOLhyphen"/>ment, Denoting the Reduction of <hi>Ireland</hi> this Revolution <hi>90.</hi> (end<g ref="char:EOLhyphen"/>ing <hi>March</hi> the 10th. <hi>1691.</hi>) Alſo, The Conquering of <hi>Lewis</hi> the <hi>XIV.</hi> preſent King of <hi>France,</hi> by His Sacred Majeſty King <hi>WILLIAM</hi> the <hi>III.</hi> in a few Years. Prophetically deduced from the Characters of Heaven.</p>
+            <p>Printed for <hi>Tho. Howkins</hi> in <hi>George-Yard</hi> in <hi>Lombard-ſtreet,</hi> and are to be Sold by <hi>R. Baldwin</hi> in the <hi>Old-Bayly, 1690.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
